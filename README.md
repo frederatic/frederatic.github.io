@@ -6,5 +6,5 @@ Page is reserved as an archive.
 ## Website
 
 
-![Frederatic Icon](/Frederatic_Icon.png "Go to website")
+[![Frederatic Icon](/FrederaticIcon.png "Go to website")](https://frederatic.com)
 
